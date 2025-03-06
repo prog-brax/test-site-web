@@ -166,7 +166,8 @@ a:visited {
 /* For creating fancy boxes */
 
 .dashed-border {
-  border: 0.25rem dashed var(--detail2);
+  border: 0.3rem dashed var(--detail2);
+  border-color: #e50b0b;
 }
 
 .solid-border {
