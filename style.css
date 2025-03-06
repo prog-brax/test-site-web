@@ -168,10 +168,12 @@ a:visited {
 .dashed-border {
   border: 0.3rem dashed var(--detail2);
   border-color: #e50b0b;
+  height: 10rem;
 }
 
 .solid-border {
   border: 0.25rem solid var(--detail2);
+  border-color: #049ae6;
 }
 
 /* Styles for the div tags that are inside a .wrap class */
